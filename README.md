@@ -2,9 +2,9 @@
 
 This is an employee management program. This program helps employeers to keep track of their employees and has the options to add, delete, edit employees, and two options to save the employee list to a file or to load a previous file.
 
-I did this to demonstrate how C# can be used with Visual Studio Code, and to understand the basics on loops, and saving and loading from a text file.
+I did this to demonstrate how C# can be used with Visual Studio Code, and to understand the basics on loops, and saving and loading data from a text file.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/qo_ME4Zs3q0)
 
 # Development Environment
 
